@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Abstract expanding arc composition">
+  <g fill="none" stroke-linecap="round">
+    <path d="M272 330a48 48 0 0 1 96 0" stroke="#D3EE8A" stroke-width="28"/>
+    <path d="M221 330a99 99 0 0 1 198 0" stroke="#25343B" stroke-width="28"/>
+    <path d="M170 330a150 150 0 0 1 300 0" stroke="#25343B" stroke-width="28"/>
+    <path d="M119 330a201 201 0 0 1 402 0" stroke="#25343B" stroke-width="28"/>
+    <path d="M68 330a252 252 0 0 1 504 0" stroke="#92A1A7" stroke-width="3"/>
+  </g>
+  <g fill="#25343B">
+    <circle cx="221" cy="330" r="14"/><circle cx="419" cy="330" r="14"/>
+    <circle cx="170" cy="330" r="14"/><circle cx="470" cy="330" r="14"/>
+    <circle cx="119" cy="330" r="14"/><circle cx="521" cy="330" r="14"/>
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 980" role="img" aria-label="Four abstract geometric directions for Reach More Buyers">
+  <rect width="1600" height="980" fill="#F7F8F8"/>
+  <g fill="#E8EAEB">
+    <rect x="44" y="78" width="340" height="790" rx="36"/>
+    <rect x="435" y="78" width="340" height="790" rx="36"/>
+    <rect x="826" y="78" width="340" height="790" rx="36"/>
+    <rect x="1217" y="78" width="340" height="790" rx="36"/>
+  </g>
+
+  <g transform="translate(54 104) scale(.5)">
+    <g fill="#25343B">
+      <path fill="#D3EE8A" d="M295 92h50c0 42-10 76-25 76s-25-34-25-76Z"/>
+      <path d="M244 182h50c0 42-10 76-25 76s-25-34-25-76Z"/><path d="M346 182h50c0 42-10 76-25 76s-25-34-25-76Z"/>
+      <path d="M193 272h50c0 42-10 76-25 76s-25-34-25-76Z"/><path d="M295 272h50c0 42-10 76-25 76s-25-34-25-76Z"/><path d="M397 272h50c0 42-10 76-25 76s-25-34-25-76Z"/>
+      <path d="M142 362h50c0 42-10 76-25 76s-25-34-25-76Z"/><path d="M244 362h50c0 42-10 76-25 76s-25-34-25-76Z"/><path d="M346 362h50c0 42-10 76-25 76s-25-34-25-76Z"/><path fill="#D3EE8A" d="M448 362h50c0 42-10 76-25 76s-25-34-25-76Z"/>
+    </g>
+  </g>
+
+  <g transform="translate(445 104) scale(.5)">
+    <g transform="translate(320 300)">
+      <g stroke="#9EABB0" stroke-width="2" opacity=".72"><path d="M0-150V-245"/><path d="M106-106l67-67"/><path d="M150 0h95"/><path d="M106 106l67 67"/><path d="M0 150v95"/><path d="M-106 106l-67 67"/><path d="M-150 0h-95"/><path d="M-106-106l-67-67"/></g>
+      <g stroke="#25343B" stroke-width="23" stroke-linecap="round"><path d="M0-47V-135"/><path d="M33-33l69-69"/><path d="M47 0h94"/><path d="M33 33l62 62"/><path d="M0 47v76"/><path d="M-33 33l-79 79"/><path d="M-47 0h82"/><path d="M-33-33l-55-55"/></g>
+      <circle r="44" fill="#D3EE8A"/>
+    </g>
+  </g>
+
+  <g transform="translate(836 104) scale(.5)">
+    <g fill="none" stroke="#25343B" stroke-linecap="round"><path d="M128 150v154c0 118 74 196 192 196s192-78 192-196V150" stroke-width="34"/><path d="M202 170v130c0 74 44 124 118 124s118-50 118-124V170" stroke-width="28"/><path d="M270 192v104c0 34 16 56 50 56s50-22 50-56V192" stroke-width="22"/></g>
+    <circle cx="128" cy="150" r="17" fill="#D3EE8A"/><circle cx="370" cy="192" r="13" fill="#D3EE8A"/><circle cx="438" cy="170" r="14" fill="#738FA6"/>
+  </g>
+
+  <g transform="translate(1227 104) scale(.5)">
+    <g fill="none" stroke-linecap="round"><path d="M272 330a48 48 0 0 1 96 0" stroke="#D3EE8A" stroke-width="28"/><path d="M221 330a99 99 0 0 1 198 0" stroke="#25343B" stroke-width="28"/><path d="M170 330a150 150 0 0 1 300 0" stroke="#25343B" stroke-width="28"/><path d="M119 330a201 201 0 0 1 402 0" stroke="#25343B" stroke-width="28"/><path d="M68 330a252 252 0 0 1 504 0" stroke="#92A1A7" stroke-width="3"/></g>
+    <g fill="#25343B"><circle cx="221" cy="330" r="14"/><circle cx="419" cy="330" r="14"/><circle cx="170" cy="330" r="14"/><circle cx="470" cy="330" r="14"/><circle cx="119" cy="330" r="14"/><circle cx="521" cy="330" r="14"/></g>
+  </g>
+
+  <g fill="#25343B" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="214" y="530" font-size="19" letter-spacing="3">A</text><text x="214" y="576" font-size="28">Expansion Field</text>
+    <text x="605" y="530" font-size="19" letter-spacing="3">B</text><text x="605" y="576" font-size="28">Radial Rhythm</text>
+    <text x="996" y="530" font-size="19" letter-spacing="3">C</text><text x="996" y="576" font-size="28">Open Channels</text>
+    <text x="1387" y="530" font-size="19" letter-spacing="3">D</text><text x="1387" y="576" font-size="28">Expanding Arcs</text>
+  </g>
+  <g fill="#647177" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle">
+    <text x="214" y="625"><tspan x="214">One element becomes a field.</tspan><tspan x="214" dy="28">Order, scale, one exception.</tspan></text>
+    <text x="605" y="625"><tspan x="605">A quiet center creates reach.</tspan><tspan x="605" dy="28">Weight and rhythm, not icons.</tspan></text>
+    <text x="996" y="625"><tspan x="996">Several paths remain open.</tspan><tspan x="996" dy="28">Connection without a diagram.</tspan></text>
+    <text x="1387" y="625"><tspan x="1387">Reach shown as expansion.</tspan><tspan x="1387" dy="28">Repetition without literality.</tspan></text>
+  </g>
+</svg>

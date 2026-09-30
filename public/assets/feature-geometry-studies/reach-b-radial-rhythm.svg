@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Abstract radial rhythm composition">
+  <g transform="translate(320 300)">
+    <g stroke="#9EABB0" stroke-width="2" opacity=".72">
+      <path d="M0-150V-245"/><path d="M106-106l67-67"/><path d="M150 0h95"/><path d="M106 106l67 67"/>
+      <path d="M0 150v95"/><path d="M-106 106l-67 67"/><path d="M-150 0h-95"/><path d="M-106-106l-67-67"/>
+    </g>
+    <g stroke="#25343B" stroke-width="23" stroke-linecap="round">
+      <path d="M0-47V-135"/><path d="M33-33l69-69"/><path d="M47 0h94"/><path d="M33 33l62 62"/>
+      <path d="M0 47v76"/><path d="M-33 33l-79 79"/><path d="M-47 0h82"/><path d="M-33-33l-55-55"/>
+    </g>
+    <circle r="44" fill="#D3EE8A"/>
+  </g>
+</svg>

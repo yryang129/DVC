@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-label="Abstract open channel composition">
+  <g fill="none" stroke="#25343B" stroke-linecap="round">
+    <path d="M128 150v154c0 118 74 196 192 196s192-78 192-196V150" stroke-width="34"/>
+    <path d="M202 170v130c0 74 44 124 118 124s118-50 118-124V170" stroke-width="28"/>
+    <path d="M270 192v104c0 34 16 56 50 56s50-22 50-56V192" stroke-width="22"/>
+  </g>
+  <circle cx="128" cy="150" r="17" fill="#D3EE8A"/>
+  <circle cx="370" cy="192" r="13" fill="#D3EE8A"/>
+  <circle cx="438" cy="170" r="14" fill="#738FA6"/>
+</svg>
